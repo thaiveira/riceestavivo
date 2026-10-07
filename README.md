@@ -37,7 +37,7 @@ Arquivos:
 
 Se o widget aparecer no Alt+Tab, volte own_window_type para 'desktop' no hud.conf.
 
-O terminal é o tema nekonight_moon do [𝗢𝗵 𝗠𝘆 𝗕𝗮𝘀𝗵](https://github.com/ohmybash) e
+O terminal é o tema nekonight_moon do [𝗢𝗵 𝗠𝘆 𝗕𝗮𝘀𝗵](https://github.com/ohmybash) 
 
 <img width="1360" height="768" alt="Captura de tela de 2026-10-03 12-51-03" src="https://github.com/user-attachments/assets/426a1696-ae42-4173-81e9-a175dc6b0467" />
 
