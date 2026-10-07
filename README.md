@@ -30,7 +30,7 @@ HUD CONKY (Thaiveira)
 Arquivos:
  hud.conf            visual e layout do widget
  hud.sh              leitura de temperatura/uso (AMD)
- star.png            estrela pixel (personalize usando a imagem que quiser com mesmo nome)
+ star.png            estrela em pixel (personalize usando a imagem que quiser com mesmo nome)
  salvar-posicao.sh   grava a posicao depois de arrastar
  conky-hud.desktop   inicio automático 
  instalar.sh         copia tudo para os lugares certos
