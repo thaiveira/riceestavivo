@@ -27,13 +27,16 @@ HUD CONKY (Thaiveira)
 5) Mover:          Alt + arrastar; depois rode ~/.config/conky/salvar-posicao.sh
 6) Autostart:      ~/.config/autostart/conky-hud.desktop (abre 8s apos o login)
 
-Arquivos:
- hud.conf            visual e layout do widget
- hud.sh              leitura de temperatura/uso (AMD)
- star.png            estrela em pixel (personalize usando a imagem que quiser com mesmo nome)
- salvar-posicao.sh   grava a posicao depois de arrastar
- conky-hud.desktop   inicio automático 
- instalar.sh         copia tudo para os lugares certos
+## Arquivos
+
+| Arquivo | Função |
+|---|---|
+| `hud.conf` | Visual e layout do widget |
+| `hud.sh` | Leitura de temperatura e uso (AMD) |
+| `star.png` | Estrela em pixel (personalize usando a imagem que quiser com o mesmo nome) |
+| `salvar-posicao.sh` | Grava a posição depois de arrastar |
+| `conky-hud.desktop` | Início automático |
+| `instalar.sh` | Copia tudo para os lugares certos |
 
 Se o widget aparecer no Alt+Tab, volte own_window_type para 'desktop' no hud.conf.
 
