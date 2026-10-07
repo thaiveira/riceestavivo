@@ -1,5 +1,4 @@
 #!/bin/bash
-# Leitura leve de sensores para o HUD (AMD). Uso: hud.sh cpu_temp | gpu_temp | gpu_use
 hw() {
   for d in /sys/class/hwmon/hwmon*; do
     if [ "$(cat "$d/name" 2>/dev/null)" = "$1" ]; then
