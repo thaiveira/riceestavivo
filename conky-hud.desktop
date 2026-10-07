@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Conky HUD
+Comment=HUD de sistema (lilas) - inicia 8s apos o login para nao pesar no boot
+Exec=sh -c "sleep 8 && conky -c $HOME/.config/conky/hud.conf"
+X-GNOME-Autostart-enabled=true
+NoDisplay=true
